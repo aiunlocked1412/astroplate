@@ -1,6 +1,6 @@
 {
   "site": {
-    "title": "AI Unlock Innovation",
+    "title": "AI UNLOCKED - คอร์ส AI สอน Vibe Coding n8n Automation ใช้ AI เขียนโปรแกรม",
     "base_url": "https://aiunlockinnovations.com",
     "base_path": "/",
     "trailing_slash": false,
@@ -39,7 +39,7 @@
   },
 
   "disqus": {
-    "enable": true,
+    "enable": false,
     "shortname": "themefisher-template",
     "settings": {}
   },

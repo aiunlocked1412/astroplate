@@ -16,24 +16,34 @@ const { title, description, meta_title, image } = about.data;
   description={description}
   image={image}
 >
-  <section class="section-sm">
+  <section class="section pb-0">
     <div class="container">
-      <div class="row justify-center">
-        <div class="text-center md:col-10 lg:col-7">
+      {/* Hero Section */}
+      <div class="row justify-center text-center mb-16">
+        <div class="lg:col-10">
           {
             image && (
               <ImageMod
-                class="mx-auto mb-6 rounded-lg"
+                class="mx-auto mb-8 rounded-full shadow-xl"
                 src={image}
-                width={200}
-                height={200}
+                width={150}
+                height={150}
                 alt={title}
                 format="webp"
               />
             )
           }
-          <h2 set:html={markdownify(title)} class="h3 mb-6" />
-          <div class="content">
+          <h1 set:html={markdownify(title)} class="mb-6" />
+          <p class="text-xl text-gray-600 dark:text-gray-300 max-w-3xl mx-auto">
+            {description}
+          </p>
+        </div>
+      </div>
+
+      {/* Content */}
+      <div class="row justify-center">
+        <div class="lg:col-10">
+          <div class="content about-content">
             <Content />
           </div>
         </div>
@@ -41,3 +51,79 @@ const { title, description, meta_title, image } = about.data;
     </div>
   </section>
 </Base>
+
+<style is:global>
+  html:not(.dark) .about-content.content h2,
+  html:not(.dark) .about-content.content h3,
+  html:not(.dark) .about-content.content strong {
+    color: #040404 !important;
+  }
+
+  html.dark .about-content.content h2,
+  html.dark .about-content.content h3,
+  html.dark .about-content.content strong {
+    color: #fff !important;
+  }
+
+  html:not(.dark) .about-content.content p {
+    color: #444444 !important;
+  }
+
+  html.dark .about-content.content p {
+    color: #B4AFB6 !important;
+  }
+
+  html:not(.dark) .about-content.content a {
+    color: #121212 !important;
+  }
+
+  html.dark .about-content.content a {
+    color: #fff !important;
+  }
+
+  .about-content.content h2 {
+    font-size: 1.875rem !important;
+    font-weight: 700 !important;
+    margin-bottom: 2rem !important;
+    margin-top: 3rem !important;
+    text-align: center !important;
+  }
+
+  .about-content.content h3 {
+    font-size: 1.5rem !important;
+    font-weight: 700 !important;
+    margin-bottom: 1rem !important;
+    margin-top: 2rem !important;
+  }
+
+  .about-content.content p {
+    font-size: 1.125rem !important;
+    margin-bottom: 1.5rem !important;
+    line-height: 1.75 !important;
+  }
+
+  .about-content.content a {
+    text-decoration: none !important;
+  }
+
+  .about-content.content a:hover {
+    text-decoration: underline !important;
+  }
+
+  .about-content.content strong {
+    font-weight: 600 !important;
+  }
+
+  .about-content.content hr {
+    margin-top: 3rem !important;
+    margin-bottom: 3rem !important;
+  }
+
+  html:not(.dark) .about-content.content hr {
+    border-color: #eaeaea !important;
+  }
+
+  html.dark .about-content.content hr {
+    border-color: #3E3E3E !important;
+  }
+</style>

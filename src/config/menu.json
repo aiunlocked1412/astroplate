@@ -9,8 +9,8 @@
       "url": "/about"
     },
     {
-      "name": "คอร์สเรียน",
-      "url": "/elements"
+      "name": "คอร์สเรียนสด",
+      "url": "/courses-vibecode"
     },
     {
       "name": "เพิ่มเติม",
@@ -46,8 +46,8 @@
   ],
   "footer": [
     {
-      "name": "คอร์สเรียน",
-      "url": "/elements"
+      "name": "คอร์สเรียนสด",
+      "url": "/courses-vibecode"
     },
     {
       "name": "นโยบายความเป็นส่วนตัว",

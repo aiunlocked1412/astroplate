@@ -1,9 +1,10 @@
 ---
-import AuthorCard from "@/components/AuthorCard.astro";
+import ImageMod from "@/components/ImageMod.astro";
+import Social from "@/components/Social.astro";
 import Base from "@/layouts/Base.astro";
 import { getSinglePage } from "@/lib/contentParser.astro";
 import PageHeader from "@/partials/PageHeader.astro";
-import { getEntry, type CollectionEntry } from "astro:content";
+import { getEntry, type CollectionEntry, render } from "astro:content";
 
 const COLLECTION_FOLDER = "authors";
 
@@ -20,11 +21,33 @@ const authors = await getSinglePage(COLLECTION_FOLDER);
     <div class="container">
       <div class="row justify-center">
         {
-          authors.map((author) => (
-            <div class="mb-14 md:col-6 lg:col-4">
-              <AuthorCard data={author} />
-            </div>
-          ))
+          await Promise.all(
+            authors.map(async (author) => {
+              const { Content } = await render(author);
+              const { title, image, social } = author.data;
+              return (
+                <div class="mb-14 lg:col-8">
+                  <div class="rounded bg-light p-12 text-center dark:bg-darkmode-light">
+                    {image && (
+                      <ImageMod
+                        class="mx-auto mb-8 rounded-full"
+                        src={image}
+                        alt={title}
+                        width={200}
+                        height={200}
+                        format="webp"
+                      />
+                    )}
+                    <h2 class="mb-6 text-2xl font-bold">{title}</h2>
+                    <div class="content mb-6">
+                      <Content />
+                    </div>
+                    <Social source={social} className="social-icons justify-center" />
+                  </div>
+                </div>
+              );
+            })
+          )
         }
       </div>
     </div>

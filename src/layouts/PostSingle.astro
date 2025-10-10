@@ -1,7 +1,6 @@
 ---
 import BlogCard from "@/components/BlogCard.astro";
 import Share from "@/components/Share.astro";
-import Disqus from "@/helpers/Disqus";
 import { getSinglePage } from "@/lib/contentParser.astro";
 import dateFormat from "@/lib/utils/dateFormat";
 import similarItems from "@/lib/utils/similarItems";
@@ -66,7 +65,7 @@ const { title, description, author, categories, image, date, tags } = post.data;
         </div>
         <div class="row items-start justify-between">
           <div class="mb-10 flex items-center lg:col-5 lg:mb-0">
-            <h5 class="mr-3">Tags :</h5>
+            <h5 class="mr-3">แท็ก :</h5>
             <ul>
               {
                 tags.map((tag: string) => (
@@ -83,7 +82,7 @@ const { title, description, author, categories, image, date, tags } = post.data;
             </ul>
           </div>
           <div class="flex items-center lg:col-4">
-            <h5 class="mr-3">Share :</h5>
+            <h5 class="mr-3">แชร์ :</h5>
             <Share
               className="social-icons"
               title={title}
@@ -92,13 +91,12 @@ const { title, description, author, categories, image, date, tags } = post.data;
             />
           </div>
         </div>
-        <Disqus className="mt-20" client:load />
       </article>
     </div>
 
     <!-- Related posts -->
     <div class="section pb-0">
-      <h2 class="h3 mb-12 text-center">Related Posts</h2>
+      <h2 class="h3 mb-12 text-center">บทความที่เกี่ยวข้อง</h2>
       <div class="row justify-center">
         {
           similarPosts.map((post) => (

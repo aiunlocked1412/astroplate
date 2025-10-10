@@ -1,30 +1,80 @@
 ---
-title: "Privacy"
-meta_title: ""
-description: "this is meta description"
+title: "นโยบายความเป็นส่วนตัว"
+meta_title: "นโยบายความเป็นส่วนตัว - AI Unlock Innovation"
+description: "นโยบายความเป็นส่วนตัวของบริษัท เอไอ อันล็อก อินโนเวชั่น จำกัด - การเก็บรวบรวม ใช้ และปกป้องข้อมูลส่วนบุคคลของคุณ"
 draft: false
 ---
 
-#### Responsibility of Contributors
+บริษัท เอไอ อันล็อก อินโนเวชั่น จำกัด ("เรา" หรือ "บริษัท") ให้ความสำคัญกับความเป็นส่วนตัวของผู้ใช้บริการ นโยบายความเป็นส่วนตัวนี้อธิบายวิธีการที่เราเก็บรวบรวม ใช้ และปกป้องข้อมูลส่วนบุคคลของคุณ
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
+#### การเก็บรวบรวมข้อมูลส่วนบุคคล
 
-pretium, aliquam sit. Praesent elementum magna amet, tincidunt eros, nibh in leo. Malesuada purus, lacus, at aliquam suspendisse tempus. Quis tempus amet, velit nascetur sollicitudin. At sollicitudin eget amet in. Eu velit nascetur sollicitudin erhdfvssfvrgss eget viverra nec elementum. Lacus, facilisis tristique lectus in.
+เราอาจเก็บรวบรวมข้อมูลส่วนบุคคลของคุณเมื่อคุณ:
 
-#### Gathering of Personal Information
+- ลงทะเบียนเรียนคอร์สออนไลน์บนแพลทฟอร์ม aiunlock.co
+- ติดต่อสอบถามข้อมูลผ่านอีเมลหรือฟอร์มติดต่อ
+- สมัครรับข่าวสารจากเรา
+- เข้าร่วมกิจกรรมหรือเวิร์กช็อปของเรา
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
+ข้อมูลที่เราอาจเก็บรวบรวมประกอบด้วย:
+- ชื่อ-นามสกุล
+- อีเมล
+- เบอร์โทรศัพท์
+- ที่อยู่ (หากจำเป็น)
+- ข้อมูลการชำระเงิน
 
-#### Protection of Personal- Information
+#### การใช้ข้อมูลส่วนบุคคล
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus.
+เราใช้ข้อมูลส่วนบุคคลของคุณเพื่อ:
 
-Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat
+1. **จัดการและให้บริการ** - ดำเนินการลงทะเบียนคอร์ส ส่งข้อมูลการเรียน และติดต่อสื่อสารกับคุณ
+2. **ปรับปรุงบริการ** - พัฒนาและปรับปรุงคอร์สเรียนและบริการของเรา
+3. **ส่งข่าวสารและข้อมูล** - แจ้งข้อมูลคอร์สใหม่ โปรโมชั่น และข่าวสารที่เกี่ยวข้อง (หากคุณยินยอม)
+4. **การสนับสนุนลูกค้า** - ตอบคำถามและให้การสนับสนุนแก่ผู้เรียน
 
-#### Privacy Policy Changes
+#### การปกป้องข้อมูลส่วนบุคคล
 
-1. Sll the Themefisher items are designed to be with the latest , We check all
-2. comments that threaten or harm the reputation of any person or organization
-3. personal information including, but limited to, email addresses, telephone numbers
-4. Any Update come in The technology Customer will get automatic Notification.
+เรามีมาตรการรักษาความปลอดภัยที่เหมาะสมเพื่อปกป้องข้อมูลส่วนบุคคลของคุณจากการเข้าถึง ใช้ หรือเปิดเผยโดยไม่ได้รับอนุญาต รวมถึง:
+
+- การเข้ารหัสข้อมูล (Encryption)
+- การจำกัดการเข้าถึงข้อมูลเฉพาะบุคลากรที่จำเป็น
+- การตรวจสอบและอัพเดทระบบรักษาความปลอดภัยอย่างสม่ำเสมอ
+
+#### การแบ่งปันข้อมูลกับบุคคลที่สาม
+
+เราจะไม่ขาย เช่า หรือแบ่งปันข้อมูลส่วนบุคคลของคุณกับบุคคลที่สาม ยกเว้นในกรณีต่อไปนี้:
+
+- เมื่อได้รับความยินยอมจากคุณ
+- เพื่อปฏิบัติตามกฎหมายหรือคำสั่งศาล
+- เพื่อปกป้องสิทธิและความปลอดภัยของบริษัทและผู้ใช้บริการ
+
+#### คุกกี้ (Cookies)
+
+เว็บไซต์ของเราอาจใช้คุกกี้เพื่อปรับปรุงประสบการณ์การใช้งานของคุณ คุณสามารถตั้งค่าเบราว์เซอร์เพื่อปฏิเสธคุกกี้ได้ แต่อาจทำให้บางฟังก์ชันของเว็บไซต์ไม่สามารถใช้งานได้
+
+#### สิทธิของคุณ
+
+คุณมีสิทธิ์ในการ:
+
+1. **เข้าถึงข้อมูล** - ขอดูข้อมูลส่วนบุคคลที่เราเก็บรักษา
+2. **แก้ไขข้อมูล** - ขอแก้ไขข้อมูลที่ไม่ถูกต้อง
+3. **ลบข้อมูล** - ขอลบข้อมูลส่วนบุคคลของคุณ
+4. **ถอนความยินยอม** - ยกเลิกการรับข่าวสารหรือถอนความยินยอมต่าง ๆ
+
+หากคุณต้องการใช้สิทธิดังกล่าว กรุณาติดต่อเราที่ aiunlockinnovations@gmail.com
+
+#### การเปลี่ยนแปลงนโยบายความเป็นส่วนตัว
+
+เราอาจปรับปรุงนโยบายความเป็นส่วนตัวนี้เป็นครั้งคราว การเปลี่ยนแปลงที่สำคัญจะถูกแจ้งให้คุณทราบผ่านอีเมลหรือประกาศบนเว็บไซต์ เราขอแนะนำให้คุณตรวจสอบนโยบายนี้เป็นประจำ
+
+**วันที่มีผลบังคับใช้**: 10 ตุลาคม 2025
+
+#### ติดต่อเรา
+
+หากคุณมีคำถามเกี่ยวกับนโยบายความเป็นส่วนตัวนี้ สามารถติดต่อเราได้ที่:
+
+**บริษัท เอไอ อันล็อก อินโนเวชั่น จำกัด**
+- **อีเมล**: aiunlockinnovations@gmail.com
+- **Facebook**: [AI Unlocked VIP](https://www.facebook.com/aiunlockedvip)
+- **YouTube**: [AI Unlocked Channel](https://www.youtube.com/@AIUnlocked168)
+- **เว็บไซต์**: [aiunlock.co](https://aiunlock.co/)

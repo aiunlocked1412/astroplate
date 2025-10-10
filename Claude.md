@@ -129,6 +129,56 @@
 
 ---
 
+## ⚠️ หมายเหตุสำคัญสำหรับการพัฒนา
+
+### Dark Theme Support
+
+**เว็บไซต์นี้ใช้ Dark Theme เป็นหลัก - ต้องระวังเรื่องสีตัวหนังสือ!**
+
+#### ปัญหาที่พบบ่อย:
+- ❌ **ห้าม** ใช้ `text-black` หรือ `text-gray-900` โดยตรง เพราะจะมองไม่เห็นใน dark mode
+- ❌ **ห้าม** ใช้สีเข้มที่ไม่มี dark mode variant
+- ❌ **ห้าม** hardcode สีที่ไม่รองรับ dark mode
+
+#### วิธีการที่ถูกต้อง:
+- ✅ ใช้ `text-gray-800 dark:text-gray-100` หรือ `dark:text-white`
+- ✅ ใช้ `text-gray-600 dark:text-gray-300` สำหรับข้อความรอง
+- ✅ ใช้ `text-gray-500 dark:text-gray-400` สำหรับข้อความอ่อน
+- ✅ ใช้ `text-primary` (จะปรับสีอัตโนมัติตาม theme)
+- ✅ เช็คทุกครั้งว่าตัวหนังสือมีความ contrast เพียงพอใน dark mode
+
+#### ตัวอย่างการใช้งานที่ถูกต้อง:
+
+```html
+<!-- ข้อความหลัก -->
+<p class="text-gray-800 dark:text-gray-100">ข้อความหลัก</p>
+
+<!-- ข้อความรอง -->
+<p class="text-gray-600 dark:text-gray-300">ข้อความรอง</p>
+
+<!-- หัวข้อ -->
+<h1 class="text-gray-900 dark:text-white">หัวข้อ</h1>
+
+<!-- ลิงก์ -->
+<a class="text-primary hover:text-primary/80">ลิงก์</a>
+
+<!-- Background + Text ที่ต้องสลับกัน -->
+<div class="bg-white dark:bg-slate-800 text-gray-700 dark:text-gray-200">
+  เนื้อหา
+</div>
+```
+
+#### สำหรับ Tailwind Typography (Prose):
+```html
+<div class="prose dark:prose-invert">
+  <!-- markdown content -->
+</div>
+```
+
+**จำไว้**: ทุกครั้งที่เพิ่ม text color ต้องคิดถึง dark mode เสมอ!
+
+---
+
 ## SEO Strategy
 
 ### On-Page SEO
