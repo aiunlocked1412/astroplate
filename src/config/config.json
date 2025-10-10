@@ -1,6 +1,6 @@
 {
   "site": {
-    "title": "AI UNLOCKED - คอร์ส AI สอน Vibe Coding n8n Automation ใช้ AI เขียนโปรแกรม",
+    "title": "AI UNLOCKED - สอน AI เชียงใหม่ คอร์ส Vibe Coding การใช้ AI สอน n8n",
     "base_url": "https://aiunlockinnovations.com",
     "base_path": "/",
     "trailing_slash": false,
@@ -15,8 +15,8 @@
   "settings": {
     "search": true,
     "sticky_header": true,
-    "theme_switcher": true,
-    "default_theme": "system",
+    "theme_switcher": false,
+    "default_theme": "dark",
     "pagination": 8,
     "summary_length": 200,
     "blog_folder": "blog"

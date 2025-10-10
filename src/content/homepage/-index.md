@@ -1,7 +1,7 @@
 ---
-title: "สอน AI | คอร์ส AI | คอร์ส AI ออนไลน์ | เรียน AI ออนไลน์ | AI Unlocked"
-meta_title: "สอน AI คอร์ส AI ออนไลน์ เรียน AI Vibe Coding n8n Automation | AI Unlocked"
-description: "สอน AI คอร์ส AI ออนไลน์ และสอนสดที่เชียงใหม่ เรียนคอร์ส AI กับผู้เชี่ยวชาญ เรียน Vibe Coding, n8n automation ใช้ AI เขียนโปรแกรม เพิ่มประสิทธิภาพ ลดต้นทุน ไม่ต้องมีพื้นฐาน"
+title: "AI UNLOCKED - สอน AI เชียงใหม่ คอร์ส Vibe Coding การใช้ AI สอน n8n"
+meta_title: "สอน AI คอร์ส AI ออนไลน์ เรียน AI Vibe Coding n8n Automation ต้องที่ AI Unlocked"
+description: "สอน AI เชียงใหม่ คอร์ส AI ออนไลน์ และสอนสด เรียนคอร์ส AI กับผู้เชี่ยวชาญ เรียน Vibe Coding, n8n automation ใช้ AI เขียนโปรแกรม เพิ่มประสิทธิภาพ ลดต้นทุน ไม่ต้องมีพื้นฐาน"
 
 # Banner
 banner:
@@ -11,7 +11,7 @@ banner:
   button:
     enable: true
     label: "เริ่มเรียนคอร์ส AI"
-    link: "#"
+    link: "/courses-online"
 
 # Features
 features:
@@ -28,7 +28,7 @@ features:
     button:
       enable: true
       label: "ดูคอร์ส AI ออนไลน์"
-      link: "#"
+      link: "/courses-online"
 
   - title: "คอร์ส AI ออนไลน์และสอนสดที่เราให้บริการ"
     image: "/images/service-2.png"
@@ -41,7 +41,7 @@ features:
     button:
       enable: true
       label: "ดูคอร์ส AI ทั้งหมด"
-      link: "#"
+      link: "/courses-online"
 
   - title: "สอน AI ออนไลน์และสอนสด - เลือกได้ตามสะดวก"
     image: "/images/service-3.png"

@@ -109,3 +109,34 @@ const { title, description, author, categories, image, date, tags } = post.data;
     </div>
   </div>
 </section>
+
+<style is:global>
+  /* Link colors in blog content - ALL links */
+  .content a,
+  .content p a,
+  .content strong a,
+  article .content a {
+    color: #60a5fa !important;
+    text-decoration: underline !important;
+  }
+
+  .content a:hover,
+  .content p a:hover,
+  .content strong a:hover {
+    color: #93c5fd !important;
+  }
+
+  /* Override for light mode if theme switcher is enabled */
+  html:not(.dark) .content a,
+  html:not(.dark) .content p a,
+  html:not(.dark) .content strong a,
+  html:not(.dark) article .content a {
+    color: #2563eb !important;
+  }
+
+  html:not(.dark) .content a:hover,
+  html:not(.dark) .content p a:hover,
+  html:not(.dark) .content strong a:hover {
+    color: #1d4ed8 !important;
+  }
+</style>

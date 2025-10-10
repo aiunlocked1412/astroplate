@@ -43,3 +43,24 @@ const { Content } = await render(page);
     </div>
   </section>
 </Base>
+
+<style is:global>
+  .content a,
+  .content p a,
+  .content strong a,
+  .content div a {
+    color: #60a5fa !important;
+    text-decoration: underline !important;
+  }
+
+  html:not(.dark) .content a,
+  html:not(.dark) .content p a,
+  html:not(.dark) .content strong a,
+  html:not(.dark) .content div a {
+    color: #2563eb !important;
+  }
+
+  .content a:hover {
+    opacity: 0.8;
+  }
+</style>
