@@ -2,7 +2,8 @@
 title: พี่หนึ่ง AI Unlocked
 email: aiunlockinnovations@gmail.com
 image: "/images/aiunlocked-profile1.png"
-description: ผู้ก่อตั้ง AI Unlocked | วิศวกรรมคอมพิวเตอร์ RMUTL | ประสบการณ์ 15+ ปี ด้านเทคโนโลยีและการตลาดออนไลน์
+description: สอน AI เชียงใหม่ โดยผู้ก่อตั้ง AI Unlocked | วิศวกรรมคอมพิวเตอร์ RMUTL | ประสบการณ์ 15+ ปี ด้านเทคโนโลยีและการตลาดออนไลน์ | สอนทั้งออนไลน์และตัวต่อตัวที่เชียงใหม่
+meta_title: สอน AI เชียงใหม่ | พี่หนึ่ง AI Unlocked - คอร์ส AI, Vibe Coding, n8n
 social:
   - name: facebook
     icon: FaFacebook
@@ -27,7 +28,36 @@ social:
 
 ### ติดต่อเรา
 
-- **อีเมล**: aiunlockinnovations@gmail.com
-- **Facebook**: [AI Unlocked VIP](https://www.facebook.com/aiunlockedvip)
-- **YouTube**: [AI Unlocked Channel](https://www.youtube.com/@AIUnlocked168)
-- **แพลทฟอร์มคอร์ส**: [aiunlock.co](https://aiunlock.co/)
+<div class="space-y-4 mt-6">
+  <div class="flex items-center gap-3 text-gray-800 dark:text-gray-200">
+    <span class="text-2xl">📧</span>
+    <div>
+      <span class="font-semibold text-gray-900 dark:text-white">อีเมล:</span>
+      <a href="mailto:aiunlockinnovations@gmail.com" class="text-blue-600 dark:text-blue-400 hover:text-blue-700 dark:hover:text-blue-300 underline">aiunlockinnovations@gmail.com</a>
+    </div>
+  </div>
+
+  <div class="flex items-center gap-3 text-gray-800 dark:text-gray-200">
+    <span class="text-2xl">👥</span>
+    <div>
+      <span class="font-semibold text-gray-900 dark:text-white">Facebook:</span>
+      <a href="https://www.facebook.com/aiunlockedvip" target="_blank" rel="noopener" class="text-blue-600 dark:text-blue-400 hover:text-blue-700 dark:hover:text-blue-300 underline">AI Unlocked VIP</a>
+    </div>
+  </div>
+
+  <div class="flex items-center gap-3 text-gray-800 dark:text-gray-200">
+    <span class="text-2xl">🎥</span>
+    <div>
+      <span class="font-semibold text-gray-900 dark:text-white">YouTube:</span>
+      <a href="https://www.youtube.com/@AIUnlocked168" target="_blank" rel="noopener" class="text-blue-600 dark:text-blue-400 hover:text-blue-700 dark:hover:text-blue-300 underline">AI Unlocked Channel</a>
+    </div>
+  </div>
+
+  <div class="flex items-center gap-3 text-gray-800 dark:text-gray-200">
+    <span class="text-2xl">🎓</span>
+    <div>
+      <span class="font-semibold text-gray-900 dark:text-white">แพลทฟอร์มคอร์ส:</span>
+      <a href="https://aiunlock.co/" target="_blank" rel="noopener" class="text-blue-600 dark:text-blue-400 hover:text-blue-700 dark:hover:text-blue-300 underline">aiunlock.co</a>
+    </div>
+  </div>
+</div>
