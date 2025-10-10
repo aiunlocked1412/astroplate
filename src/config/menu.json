@@ -1,40 +1,40 @@
 {
   "main": [
     {
-      "name": "Home",
+      "name": "หน้าแรก",
       "url": "/"
     },
     {
-      "name": "About",
+      "name": "เกี่ยวกับเรา",
       "url": "/about"
     },
     {
-      "name": "Elements",
+      "name": "คอร์สเรียน",
       "url": "/elements"
     },
     {
-      "name": "Pages",
+      "name": "เพิ่มเติม",
       "url": "",
       "hasChildren": true,
       "children": [
         {
-          "name": "Contact",
+          "name": "ติดต่อเรา",
           "url": "/contact"
         },
         {
-          "name": "Blog",
+          "name": "บทความ",
           "url": "/blog"
         },
         {
-          "name": "Authors",
+          "name": "ผู้สอน",
           "url": "/authors"
         },
         {
-          "name": "Categories",
+          "name": "หมวดหมู่",
           "url": "/categories"
         },
         {
-          "name": "Tags",
+          "name": "แท็ก",
           "url": "/tags"
         },
         {
@@ -46,11 +46,11 @@
   ],
   "footer": [
     {
-      "name": "Elements",
+      "name": "คอร์สเรียน",
       "url": "/elements"
     },
     {
-      "name": "Privacy Policy",
+      "name": "นโยบายความเป็นส่วนตัว",
       "url": "/privacy-policy"
     }
   ]

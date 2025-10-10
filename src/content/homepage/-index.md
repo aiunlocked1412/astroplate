@@ -1,51 +1,57 @@
 ---
+title: "คอร์ส AI | สอน AI | Vibe Coding | n8n Automation | ใช้ AI เขียนโปรแกรม"
+meta_title: "คอร์ส AI ออนไลน์ สอน Vibe Coding n8n Automation ใช้ AI เขียนโปรแกรม | AI Unlocked"
+description: "เรียนคอร์ส AI ออนไลน์และออนไซต์ที่เชียงใหม่ สอน AI, Vibe Coding, n8n automation ใช้ AI เขียนโปรแกรม สร้างเว็บไซต์ แอพฯ เรียนได้แม้ไม่มีพื้นฐาน aiunlock.co"
+
 # Banner
 banner:
-  title: "The Ultimate Starter Template You Need To Start Your Astro Project"
-  content: "Astroplate is a free starter template built with Astro and TailwindCSS, providing everything you need to jumpstart your Astro project and save valuable time."
+  title: "เรียนรู้ AI และสร้างอนาคตด้วย Vibe Coding"
+  content: "บริษัท เอไอ อันล็อก อินโนเวชั่น จำกัด ให้บริการสอนคอร์ส AI, n8n automation, การเขียนโปรแกรม และการสร้างเว็บไซต์และแอพพลิเคชั่นด้วย AI แบบ Vibe Coding ที่คนไม่มีพื้นฐานก็เรียนได้"
   image: "/images/banner.png"
   button:
     enable: true
-    label: "Get Started For Free"
-    link: "https://github.com/zeon-studio/astroplate"
+    label: "เริ่มเรียนเลย"
+    link: "https://aiunlock.co/"
 
 # Features
 features:
-  - title: "What's Included in Astroplate"
+  - title: "คอร์สเรียนที่เรามี"
     image: "/images/service-1.png"
-    content: "Astroplate is a comprehensive starter template that includes everything you need to get started with your Astro project. What's Included in Astroplate"
+    content: "เราเสนอหลักสูตรที่หลากหลายและครอบคลุมทุกด้านของ AI และการพัฒนาซอฟต์แวร์สำหรับทุกระดับ"
     bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Astro and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
-    button:
-      enable: false
-      label: "Get Started Now"
-      link: "#"
-
-  - title: "Discover the Key Features Of Astro"
-    image: "/images/service-2.png"
-    content: "Astro is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
-    bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
+      - "คอร์สการใช้งาน AI อย่างมืออาชีพ"
+      - "การทำ n8n automation เพื่อเพิ่มประสิทธิภาพการทำงาน"
+      - "การเขียนโปรแกรมด้วย AI"
+      - "การสร้างเว็บไซต์และแอพพลิเคชั่นด้วย Vibe Coding"
+      - "เหมาะสำหรับผู้เริ่มต้นที่ไม่มีพื้นฐาน"
+      - "**เรียนออนไลน์และแบบตัวต่อตัว** ที่จังหวัดเชียงใหม่"
     button:
       enable: true
-      label: "Get Started Now"
-      link: "https://github.com/zeon-studio/astroplate"
+      label: "ดูคอร์สเรียน"
+      link: "https://aiunlock.co/"
 
-  - title: "The Top Reasons to Choose Astro for Your Next Project"
-    image: "/images/service-3.png"
-    content: "With Astro, you can build modern and content-focused websites without sacrificing performance or ease of use."
+  - title: "Vibe Coding คืออะไร?"
+    image: "/images/service-2.png"
+    content: "Vibe Coding คือวิธีการเขียนโปรแกรมยุคใหม่ที่ใช้ AI เป็นผู้ช่วย ทำให้คุณสามารถสร้างเว็บไซต์และแอพพลิเคชั่นได้ง่ายขึ้น แม้ว่าคุณจะไม่มีพื้นฐานการเขียนโปรแกรมมาก่อน"
     bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using Astro a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
+      - "ใช้ AI เป็นผู้ช่วยในการเขียนโค้ด"
+      - "เหมาะสำหรับผู้ที่ไม่มีพื้นฐานการเขียนโปรแกรม"
+      - "สร้างเว็บไซต์และแอพพลิเคชั่นได้อย่างรวดเร็ว"
+      - "เรียนรู้และทำงานไปพร้อมกัน"
+    button:
+      enable: true
+      label: "เริ่มเรียน Vibe Coding"
+      link: "https://aiunlock.co/"
+
+  - title: "ทำไมต้องเรียนกับเรา?"
+    image: "/images/service-3.png"
+    content: "เราให้บริการสอนทั้งแบบออนไลน์และแบบตัวต่อตัว พร้อมด้วยประสบการณ์และความเชี่ยวชาญด้าน AI และการพัฒนาซอฟต์แวร์"
+    bulletpoints:
+      - "สอนออนไลน์ผ่านแพลทฟอร์ม aiunlock.co"
+      - "สอนแบบตัวต่อตัวที่จังหวัดเชียงใหม่"
+      - "เนื้อหาที่ทันสมัยและใช้งานได้จริง"
+      - "เหมาะสำหรับทุกคนไม่ว่าจะมีพื้นฐานหรือไม่"
+      - "ผู้สอนมีประสบการณ์จริง"
     button:
       enable: false
       label: ""

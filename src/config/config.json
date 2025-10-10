@@ -1,15 +1,15 @@
 {
   "site": {
-    "title": "Astroplate",
-    "base_url": "https://astroplate.netlify.app",
+    "title": "AI Unlock Innovation",
+    "base_url": "https://aiunlockinnovations.com",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
-    "logo": "/images/logo.png",
-    "logo_darkmode": "/images/logo-darkmode.png",
+    "logo": "",
+    "logo_darkmode": "",
     "logo_width": "150",
     "logo_height": "30",
-    "logo_text": "Astroplate"
+    "logo_text": "AI UNLOCKED"
   },
 
   "settings": {
@@ -24,13 +24,13 @@
 
   "params": {
     "contact_form_action": "#",
-    "copyright": "Designed And Developed by [Zeon Studio](https://zeon.studio)"
+    "copyright": "© 2025 บริษัท เอไอ อันล็อก อินโนเวชั่น จำกัด - All Rights Reserved"
   },
 
   "navigation_button": {
     "enable": true,
-    "label": "Get Started",
-    "link": "https://github.com/zeon-studio/astroplate"
+    "label": "เริ่มเรียนเลย",
+    "link": "https://aiunlock.co/"
   },
 
   "google_tag_manager": {
@@ -45,8 +45,8 @@
   },
 
   "metadata": {
-    "meta_author": "zeon.studio",
+    "meta_author": "AI Unlock Innovation - บริษัท เอไอ อันล็อก อินโนเวชั่น จำกัด",
     "meta_image": "/images/og-image.png",
-    "meta_description": "astro and tailwind boilerplate"
+    "meta_description": "คอร์ส AI ออนไลน์และออนไซต์ที่เชียงใหม่ | สอน AI, Vibe Coding, n8n automation | ใช้ AI เขียนโปรแกรม สร้างเว็บไซต์ แอพพลิเคชั่น | เรียนได้แม้ไม่มีพื้นฐาน | aiunlock.co"
   }
 }

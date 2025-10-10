@@ -1,10 +1,10 @@
 ---
 enable: true
-title: "Ready to build your next project with Astro?"
+title: "พร้อมที่จะเริ่มต้นเรียนรู้ AI และ Vibe Coding แล้วหรือยัง?"
 image: "/images/call-to-action.png"
-description: "Experience the future of web development with Astroplate and Astro. Build lightning-fast static sites with ease and flexibility."
+description: "เข้าร่วมกับเราวันนี้และเริ่มต้นการเรียนรู้ AI, n8n automation, และ Vibe Coding ที่จะเปลี่ยนอนาคตของคุณ ไม่ว่าคุณจะมีพื้นฐานหรือไม่ก็สามารถเรียนได้"
 button:
   enable: true
-  label: "Get Started Now"
-  link: "https://github.com/zeon-studio/astroplate"
+  label: "เริ่มเรียนเลย"
+  link: "https://aiunlock.co/"
 ---

@@ -55,7 +55,9 @@ const { theme_switcher }: { theme_switcher: boolean } = config.settings;
         )}
       </>
     ) : logo_text ? (
-      logo_text
+      <span class="text-2xl font-bold text-dark dark:text-white">
+        {logo_text}
+      </span>
     ) : (
       title
     )

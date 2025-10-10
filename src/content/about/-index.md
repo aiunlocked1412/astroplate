@@ -1,9 +1,32 @@
 ---
-title: "Hey, I am John Doe!"
-meta_title: "About"
-description: "this is meta description"
+title: "เกี่ยวกับบริษัท เอไอ อันล็อก อินโนเวชั่น - ผู้เชี่ยวชาญสอน AI และ Vibe Coding"
+meta_title: "เกี่ยวกับเรา - สอน AI Vibe Coding n8n Automation เชียงใหม่ | AI Unlocked"
+description: "บริษัท เอไอ อันล็อก อินโนเวชั่น จำกัด ผู้เชี่ยวชาญด้านคอร์ส AI สอน Vibe Coding n8n automation ใช้ AI เขียนโปรแกรม ออนไลน์และออนไซต์ที่เชียงใหม่"
 image: "/images/avatar.png"
 draft: false
 ---
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed. Fugit voluptatibus perspiciatis assumenda nulla ad nihil, omnis vel, doloremque sit quam autem optio maiores, illum eius facilis et quo consectetur provident dolor similique! Enim voluptatem dicta expedita veritatis repellat dolorum impedit, provident quasi at.
+## เกี่ยวกับเรา
+
+**บริษัท เอไอ อันล็อก อินโนเวชั่น จำกัด** เป็นบริษัทที่เชี่ยวชาญด้านการสอนและให้คำปรึกษาเกี่ยวกับเทคโนโลยี AI และการพัฒนาซอฟต์แวร์ เรามุ่งมั่นที่จะทำให้เทคโนโลยี AI เข้าถึงได้ง่ายสำหรับทุกคน ไม่ว่าคุณจะมีพื้นฐานด้านเทคโนโลยีหรือไม่
+
+## บริการของเรา
+
+เราให้บริการสอนคอร์สที่หลากหลายครอบคลุมทุกด้านของ AI และการพัฒนาซอฟต์แวร์:
+
+- **คอร์สการใช้งาน AI** - เรียนรู้วิธีใช้ AI ในการทำงานและชีวิตประจำวันอย่างมืออาชีพ
+- **n8n Automation** - เรียนรู้การทำ automation เพื่อเพิ่มประสิทธิภาพการทำงาน
+- **การเขียนโปรแกรม** - เรียนรู้การเขียนโปรแกรมด้วย AI เป็นผู้ช่วย
+- **Vibe Coding** - วิธีการสร้างเว็บไซต์และแอพพลิเคชั่นด้วย AI แบบที่คนไม่มีพื้นฐานก็ทำได้
+
+## ช่องทางการเรียน
+
+- **คอร์สออนไลน์** - เรียนผ่านแพลทฟอร์มออนไลน์ของเราที่ [aiunlock.co](https://aiunlock.co/)
+- **สอนส่วนตัว** - เรามีบริการสอนแบบตัวต่อตัวที่จังหวัดเชียงใหม่
+
+## ติดต่อเรา
+
+- **อีเมล**: aiunlockinnovations@gmail.com
+- **Facebook**: [AI Unlocked VIP](https://www.facebook.com/aiunlockedvip)
+- **YouTube**: [AI Unlocked Channel](https://www.youtube.com/@AIUnlocked168)
+- **แพลทฟอร์มคอร์ส**: [aiunlock.co](https://aiunlock.co/)

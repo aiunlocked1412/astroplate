@@ -1,27 +1,27 @@
 ---
 enable: true
-title: "What Users Are Saying About Astroplate"
-description: "Don't just take our word for it - hear from some of our satisfied users!  Check out some of our testimonials below to see what others are saying about Astroplate."
+title: "ความคิดเห็นจากผู้เรียนของเรา"
+description: "ฟังความคิดเห็นจากผู้เรียนที่ประสบความสำเร็จกับคอร์สของเรา"
 
 # Testimonials
 testimonials:
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
+  - name: "นายสมชาย ใจดี"
+    designation: "ผู้ประกอบการ"
     avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+    content: "คอร์ส AI และ n8n automation ช่วยให้ธุรกิจของผมมีประสิทธิภาพมากขึ้น ลดเวลาทำงานได้เยอะมาก แนะนำเลยครับ"
 
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
+  - name: "คุณสุดา วงศ์ทอง"
+    designation: "นักเรียน"
     avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+    content: "ตอนแรกกลัวว่าจะเรียนไม่ทัน เพราะไม่เคยเขียนโปรแกรมมาก่อน แต่พอเรียน Vibe Coding แล้ว ทำเว็บไซต์ได้จริงๆ ไม่น่าเชื่อ!"
 
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
+  - name: "นายวิชัย มั่นใจ"
+    designation: "Freelancer"
     avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+    content: "เรียนคอร์สแบบตัวต่อตัวที่เชียงใหม่ ผู้สอนอธิบายง่าย เข้าใจไว ตอนนี้รับงานทำเว็บไซต์ได้แล้วครับ"
 
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
+  - name: "คุณนิดา สุขสันต์"
+    designation: "พนักงานบริษัท"
     avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+    content: "คอร์สการใช้ AI ช่วยให้ทำงานเร็วขึ้นมาก ใช้ AI ช่วยเขียนอีเมล ทำสรุป และวิเคราะห์ข้อมูล ประหยัดเวลาได้หลายชั่วโมงต่อวัน"
 ---
