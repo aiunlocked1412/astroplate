@@ -5,49 +5,30 @@
       "url": "/"
     },
     {
-      "name": "เกี่ยวกับเรา",
-      "url": "/about"
+      "name": "คอร์สออนไลน์",
+      "url": "/courses-online"
     },
     {
       "name": "คอร์สเรียนสด",
       "url": "/courses-vibecode"
     },
     {
-      "name": "เพิ่มเติม",
-      "url": "",
-      "hasChildren": true,
-      "children": [
-        {
-          "name": "ติดต่อเรา",
-          "url": "/contact"
-        },
-        {
-          "name": "บทความ",
-          "url": "/blog"
-        },
-        {
-          "name": "ผู้สอน",
-          "url": "/authors"
-        },
-        {
-          "name": "หมวดหมู่",
-          "url": "/categories"
-        },
-        {
-          "name": "แท็ก",
-          "url": "/tags"
-        },
-        {
-          "name": "404 Page",
-          "url": "/404"
-        }
-      ]
+      "name": "บทความ",
+      "url": "/blog"
+    },
+    {
+      "name": "เกี่ยวกับเรา",
+      "url": "/about"
     }
   ],
   "footer": [
     {
-      "name": "คอร์สเรียนสด",
-      "url": "/courses-vibecode"
+      "name": "ติดต่อเรา",
+      "url": "/contact"
+    },
+    {
+      "name": "ผู้สอน",
+      "url": "/authors"
     },
     {
       "name": "นโยบายความเป็นส่วนตัว",
