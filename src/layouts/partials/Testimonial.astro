@@ -23,8 +23,8 @@ const { testimonial } = Astro.props;
                     name: string;
                     designation: string;
                   }) => (
-                    <div class="swiper-slide">
-                      <div class="rounded-lg bg-light px-7 py-10 dark:bg-darkmode-light">
+                    <div class="swiper-slide h-auto">
+                      <div class="rounded-lg bg-light px-7 py-10 dark:bg-darkmode-light h-full flex flex-col">
                         <div class="text-text-dark dark:text-white">
                           <svg
                             width="33"
@@ -40,7 +40,7 @@ const { testimonial } = Astro.props;
                           </svg>
                         </div>
                         <blockquote
-                          class="mt-8"
+                          class="mt-8 flex-grow"
                           set:html={markdownify(item.content)}
                         />
                         <div class="mt-11 flex items-center">
@@ -91,6 +91,7 @@ const { testimonial } = Astro.props;
       modules: [Pagination, Autoplay],
       spaceBetween: 24,
       loop: true,
+      autoHeight: false,
       autoplay: {
         delay: 2500,
         disableOnInteraction: false,
