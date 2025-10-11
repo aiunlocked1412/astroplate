@@ -1,5 +1,4 @@
 import mdx from "@astrojs/mdx";
-import node from "@astrojs/node";
 import react from "@astrojs/react";
 import sitemap from "@astrojs/sitemap";
 import tailwindcss from "@tailwindcss/vite";
@@ -15,10 +14,6 @@ export default defineConfig({
   site: config.site.base_url ? config.site.base_url : "http://examplesite.com",
   base: config.site.base_path ? config.site.base_path : "/",
   trailingSlash: config.site.trailing_slash ? "always" : "never",
-  output: "server",
-  adapter: node({
-    mode: "standalone",
-  }),
   image: { service: sharp() },
   vite: { plugins: [tailwindcss()] },
   integrations: [
