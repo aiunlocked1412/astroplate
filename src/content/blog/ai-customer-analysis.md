@@ -3,7 +3,7 @@ title: "การวิเคราะห์กลุ่มเป้าหมา
 meta_title: "วิเคราะห์กลุ่มเป้าหมายด้วย AI | Customer Analysis - เข้าใจลูกค้าอย่างลึกซึ้ง"
 description: "เรียนรู้การใช้ AI วิเคราะห์กลุ่มเป้าหมาย ทำความเข้าใจพฤติกรรมลูกค้า สร้าง customer persona และทำนายความต้องการด้วย AI อย่างมืออาชีพ"
 date: 2025-10-10T09:00:00Z
-image: "/images/image-placeholder.png"
+image: "/images/blog-default.svg"
 categories: ["AI", "Marketing", "Customer Analysis"]
 author: "พี่หนึ่ง AI Unlocked"
 tags: ["AI", "customer analysis", "audience", "targeting", "personalization"]

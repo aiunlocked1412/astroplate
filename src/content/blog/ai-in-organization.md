@@ -3,7 +3,7 @@ title: "การประยุกต์ใช้ AI ในองค์กร -
 meta_title: "นำ AI มาใช้ในองค์กร | AI Transformation - เพิ่มประสิทธิภาพธุรกิจด้วย AI"
 description: "เรียนรู้การนำ AI มาประยุกต์ใช้ในองค์กร เพิ่มประสิทธิภาพการทำงาน ลดต้นทุน และสร้างความได้เปรียบทางการแข่งขัน พร้อมกรณีศึกษาจริง"
 date: 2025-10-10T07:00:00Z
-image: "/images/image-placeholder.png"
+image: "/images/blog-default.svg"
 categories: ["AI", "Business", "Digital Transformation"]
 author: "พี่หนึ่ง AI Unlocked"
 tags: ["AI", "organization", "business", "transformation", "efficiency"]

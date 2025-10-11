@@ -3,7 +3,7 @@ title: "ตั้งค่า Workflow แรกใน n8n: ต่อ Gmail → 
 meta_title: "สอนตั้งค่า n8n Workflow - Gmail, Google Sheets, Notification | AI Unlocked"
 description: "คู่มือสอนวิธีตั้งค่าเวิร์กโฟลว์ n8n แบบ step-by-step เชื่อม Gmail ไปยัง Google Sheets และระบบแจ้งเตือนอัตโนมัติ เหมาะสำหรับผู้เริ่มต้น"
 date: 2025-10-15T05:00:00Z
-image: "/images/image-placeholder.png"
+image: "/images/blog-default.svg"
 categories: ["n8n", "Automation", "Tutorials"]
 author: "พี่หนึ่ง AI Unlocked"
 tags: ["n8n", "Workflow", "Gmail", "Google Sheets", "Automation", "สอน n8n"]

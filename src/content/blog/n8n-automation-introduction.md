@@ -3,7 +3,7 @@ title: "รู้จัก n8n - เครื่องมือ Automation ท�
 meta_title: "รู้จัก n8n Automation - สอน n8n เครื่องมือ Workflow Automation ภาษาไทย"
 description: "แนะนำ n8n เครื่องมือ workflow automation ที่ช่วยให้คุณทำงานอัตโนมัติได้ง่าย ประหยัดเวลา เพิ่มประสิทธิภาพ เรียนรู้ n8n กับเรา"
 date: 2025-10-10T05:00:00Z
-image: "/images/image-placeholder.png"
+image: "/images/blog-default.svg"
 categories: ["Automation", "n8n", "Technology"]
 author: "พี่หนึ่ง AI Unlocked"
 tags: ["n8n", "automation", "workflow", "no-code"]

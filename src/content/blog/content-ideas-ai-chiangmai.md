@@ -3,7 +3,7 @@ title: "10 ไอเดียคอนเทนต์สั้นด้วย AI
 meta_title: "10 ไอเดียคอนเทนต์ AI สำหรับธุรกิจเชียงใหม่ - สร้างเนื้อหาได้ง่ายขึ้น | AI Unlocked"
 description: "เสนอ 10 ไอเดียคอนเทนต์สั้นที่ใช้ AI ช่วยสร้างสำหรับเพจธุรกิจในเชียงใหม่ ประหยัดเวลาและเพิ่มความคิดสร้างสรรค์ในการทำ Content Marketing"
 date: 2025-10-18T05:00:00Z
-image: "/images/image-placeholder.png"
+image: "/images/blog-default.svg"
 categories: ["Marketing", "AI Tools", "Content Creation"]
 author: "พี่หนึ่ง AI Unlocked"
 tags: ["คอนเทนต์ AI", "เชียงใหม่", "ธุรกิจท้องถิ่น", "AI Marketing", "Content Marketing"]

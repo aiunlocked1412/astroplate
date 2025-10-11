@@ -3,7 +3,7 @@ title: "Prompt Engineering เบื้องต้น: เขียนพรอ
 meta_title: "Prompt Engineering คืออะไร - คู่มือเขียน Prompt ให้ได้ผลลัพธ์ดี | AI Unlocked"
 description: "เรียนรู้หลักการเขียนพรอมป์ให้ได้ผลลัพธ์คุณภาพด้วยเทคนิค Prompt Engineering พร้อมตัวอย่างจริงและเคล็ดลับที่ใช้ได้ผล"
 date: 2025-10-12T05:00:00Z
-image: "/images/image-placeholder.png"
+image: "/images/blog-default.svg"
 categories: ["AI Tools", "Guides", "Tutorials"]
 author: "พี่หนึ่ง AI Unlocked"
 tags: ["Prompt Engineering", "AI", "เขียนพรอมป์", "ChatGPT", "AI Tools"]

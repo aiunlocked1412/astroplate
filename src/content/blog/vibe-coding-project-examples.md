@@ -3,7 +3,7 @@ title: "ตัวอย่างโปรเจกต์จริงจากผ
 meta_title: "โปรเจกต์ Vibe Coding จริง | สร้างเว็บแอปใน 5 ชั่วโมง ไม่ต้องเขียนโค้ดเยอะ"
 description: "แชร์ตัวอย่างโปรเจกต์จริงจากผู้เรียน Vibe Coding ที่สร้างเว็บไซต์และแอปพลิเคชันสำเร็จภายใน 5 ชั่วโมง โดยไม่ต้องมีพื้นฐานเขียนโค้ดมาก พร้อมเคล็ดลับและแนวทางปฏิบัติ"
 date: 2025-10-10T05:00:00Z
-image: "/images/image-placeholder.png"
+image: "/images/blog-default.svg"
 categories: ["Vibe Coding", "Technology", "Guides"]
 author: "พี่หนึ่ง AI Unlocked"
 tags: ["Vibe Coding", "โปรเจกต์", "ตัวอย่างการใช้งาน", "no-code", "AI development", "เว็บแอป"]

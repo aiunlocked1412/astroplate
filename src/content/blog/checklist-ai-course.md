@@ -3,7 +3,7 @@ title: "เช็กลิสต์ก่อนลงเรียนคอร์
 meta_title: "Checklist ก่อนลงเรียนคอร์ส AI | ประเมินความพร้อมให้คุ้มค่า"
 description: "รายการตรวจสอบครบถ้วนก่อนตัดสินใจลงเรียนคอร์ส AI เพื่อให้ได้ประโยชน์สูงสุด ประหยัดเวลาและเงิน พร้อมคำแนะนำการเลือกคอร์สที่เหมาะกับคุณ"
 date: 2025-10-09T05:00:00Z
-image: "/images/image-placeholder.png"
+image: "/images/blog-default.svg"
 categories: ["คอร์ส AI", "Guides"]
 author: "พี่หนึ่ง AI Unlocked"
 tags: ["คอร์ส AI", "checklist", "เรียน AI", "คำแนะนำ", "การเลือกคอร์ส", "AI สำหรับผู้เริ่มต้น"]

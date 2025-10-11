@@ -3,7 +3,7 @@ title: "การทำการตลาดด้วย AI - ยกระดั
 meta_title: "AI Marketing | การตลาด AI - เพิ่มยอดขายด้วย AI อย่างมืออาชีพ"
 description: "เรียนรู้การใช้ AI ทำการตลาดยุคใหม่ เพิ่มประสิทธิภาพ content marketing, โฆษณา, และการวิเคราะห์ลูกค้า ด้วยเครื่องมือ AI Marketing ที่ทันสมัย"
 date: 2025-10-10T08:00:00Z
-image: "/images/image-placeholder.png"
+image: "/images/blog-default.svg"
 categories: ["AI", "Marketing", "Digital Marketing"]
 author: "พี่หนึ่ง AI Unlocked"
 tags: ["AI", "marketing", "digital marketing", "content", "advertising"]

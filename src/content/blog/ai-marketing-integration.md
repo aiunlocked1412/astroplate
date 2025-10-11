@@ -3,7 +3,7 @@ title: "เชื่อม AI กับงานตลาด: ทำโฆษณ
 meta_title: "AI Marketing: เชื่อมโฆษณา คอนเทนต์ และวิเคราะห์ลูกค้าในเครื่องมือเดียว"
 description: "คู่มือครอบคลุมการใช้ AI ในงานการตลาด ตั้งแต่สร้างโฆษณาและคอนเทนต์ วิเคราะห์พฤติกรรมลูกค้า ไปจนถึงการเชื่อมระบบอัตโนมัติด้วย n8n พร้อมตัวอย่างจริง"
 date: 2025-10-23T05:00:00Z
-image: "/images/image-placeholder.png"
+image: "/images/blog-default.svg"
 categories: ["Marketing", "Automation", "Technology", "Business"]
 author: "พี่หนึ่ง AI Unlocked"
 tags: ["AI Marketing", "โฆษณา", "คอนเทนต์", "วิเคราะห์ลูกค้า", "n8n", "Automation"]

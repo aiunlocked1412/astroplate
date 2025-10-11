@@ -3,7 +3,7 @@ title: "20 พรอมป์ต์เริ่มต้นสำหรับง
 meta_title: "20 Prompts สำหรับเขียนโค้ดด้วย AI | ใช้ได้จริงทันที"
 description: "รวบรวม 20 พรอมป์ต์ที่ใช้กับ AI สำหรับช่วยเขียนโค้ดในงานต่าง ๆ พร้อมตัวอย่างและเทคนิคการใช้งานอย่างมืออาชีพ"
 date: 2025-10-11T08:00:00Z
-image: "/images/image-placeholder.png"
+image: "/images/blog-default.svg"
 categories: ["AI Tools", "Programming"]
 author: "พี่หนึ่ง AI Unlocked"
 tags: ["พรอมป์ต์", "โค้ดดิ้ง", "AI", "ChatGPT", "Claude", "Prompt Engineering", "การเขียนโปรแกรม"]
