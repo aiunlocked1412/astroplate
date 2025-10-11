@@ -38,6 +38,11 @@
     "gtm_id": "GTM-XXXXXX"
   },
 
+  "google_analytics": {
+    "enable": true,
+    "ga_id": "G-TFKT8FP100"
+  },
+
   "disqus": {
     "enable": false,
     "shortname": "themefisher-template",

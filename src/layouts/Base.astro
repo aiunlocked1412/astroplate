@@ -54,6 +54,27 @@ const { title, meta_title, description, image, noindex, canonical } =
         <GoogleTagmanager id={config.google_tag_manager.gtm_id} />
       )
     }
+
+    <!-- google analytics (gtag.js) -->
+    {
+      config.google_analytics?.enable && (
+        <>
+          <script
+            async
+            src={`https://www.googletagmanager.com/gtag/js?id=${config.google_analytics.ga_id}`}
+          ></script>
+          <script is:inline define:vars={{ gaId: config.google_analytics.ga_id }}>
+            window.dataLayer = window.dataLayer || [];
+            function gtag() {
+              dataLayer.push(arguments);
+            }
+            gtag("js", new Date());
+            gtag("config", gaId);
+          </script>
+        </>
+      )
+    }
+
     <!-- favicon -->
     <link rel="shortcut icon" href={config.site.favicon} />
     <!-- theme meta -->

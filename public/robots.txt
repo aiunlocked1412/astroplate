@@ -1,4 +1,10 @@
+# Block admin pages from search engines
 User-agent: *
+Disallow: /admin/
+Disallow: /api/auth/
+
+# Allow everything else
 Allow: /
 
-Disallow: /api/*
+# Sitemap
+Sitemap: https://aiunlockinnovations.com/sitemap-index.xml

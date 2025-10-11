@@ -2,7 +2,7 @@
 title: "เกี่ยวกับบริษัท เอไอ อันล็อก อินโนเวชั่น - ผู้เชี่ยวชาญสอน AI และ Vibe Coding"
 meta_title: "เกี่ยวกับเรา - สอน AI Vibe Coding n8n Automation เชียงใหม่ | AI Unlocked"
 description: "บริษัท เอไอ อันล็อก อินโนเวชั่น จำกัด ผู้เชี่ยวชาญด้านคอร์ส AI สอน Vibe Coding n8n automation ใช้ AI เขียนโปรแกรม ออนไลน์และออนไซต์ที่เชียงใหม่"
-image: "/images/avatar.png"
+image: "/images/aiunlocked-profile1.png"
 draft: false
 ---
 
