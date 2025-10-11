@@ -33,6 +33,10 @@
     {
       "name": "นโยบายความเป็นส่วนตัว",
       "url": "/privacy-policy"
+    },
+    {
+      "name": "Sitemap",
+      "url": "https://aiunlockinnovations.com/sitemap-index.xml"
     }
   ]
 }

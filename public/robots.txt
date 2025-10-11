@@ -1,9 +1,5 @@
-# Block admin pages from search engines
+# robots.txt for AI UNLOCKED
 User-agent: *
-Disallow: /admin/
-Disallow: /api/auth/
-
-# Allow everything else
 Allow: /
 
 # Sitemap
