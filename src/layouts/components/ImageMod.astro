@@ -14,6 +14,8 @@ interface Props {
   format?: "auto" | "avif" | "jpeg" | "png" | "svg" | "webp";
   class?: string;
   style?: any;
+  widths?: number[];
+  sizes?: string;
 }
 
 // Destructuring Astro.props to get the component's props
@@ -28,7 +30,17 @@ let {
   class: className,
   format,
   style,
+  widths,
+  sizes,
 } = Astro.props;
+
+// Default responsive widths if not provided
+const defaultWidths = [400, 800, 1200];
+const responsiveWidths = widths || defaultWidths;
+
+// Default sizes attribute for responsive images
+const defaultSizes = "(max-width: 768px) 100vw, (max-width: 1200px) 80vw, 1200px";
+const responsiveSizes = sizes || defaultSizes;
 
 src = `/public${src}`;
 
@@ -52,6 +64,8 @@ const isValidPath = images[src] ? true : false;
       alt={alt}
       width={width}
       height={height}
+      widths={responsiveWidths}
+      sizes={responsiveSizes}
       loading={loading}
       decoding={decoding}
       fetchpriority={fetchpriority}
