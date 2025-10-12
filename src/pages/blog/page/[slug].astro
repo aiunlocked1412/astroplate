@@ -6,6 +6,7 @@ import Base from "@/layouts/Base.astro";
 import { getSinglePage } from "@/lib/contentParser.astro";
 import { getAllTaxonomy, getTaxonomy } from "@/lib/taxonomyParser.astro";
 import { sortByDate } from "@/lib/utils/sortFunctions";
+import { humanize } from "@/lib/utils/textConverter";
 import PageHeader from "@/partials/PageHeader.astro";
 import PostSidebar from "@/partials/PostSidebar.astro";
 import type { CollectionEntry } from "astro:content";
@@ -79,7 +80,35 @@ export async function getStaticPaths() {
           categories={categories}
           tags={tags}
           allCategories={allCategories}
+          showTags={false}
         />
+      </div>
+
+      <!-- tags section below -->
+      <div class="row mt-14">
+        <div class="col-12">
+          <div class="mb-8">
+            <h5 class="mb-6 text-gray-800 dark:text-gray-100">Tags</h5>
+            <div class="rounded bg-light p-6 dark:bg-darkmode-light">
+              <ul>
+                {
+                  tags.map((tag: any) => {
+                    return (
+                      <li class="inline-block">
+                        <a
+                          class="m-1 block rounded bg-white px-3 py-1 hover:bg-primary hover:text-white dark:bg-darkmode-body dark:hover:bg-darkmode-primary dark:hover:text-text-dark"
+                          href={`/tags/${tag}`}
+                        >
+                          {humanize(tag)}
+                        </a>
+                      </li>
+                    );
+                  })
+                }
+              </ul>
+            </div>
+          </div>
+        </div>
       </div>
     </div>
   </section>

@@ -1,6 +1,7 @@
 ---
 import BlogCard from "@/components/BlogCard.astro";
 import Share from "@/components/Share.astro";
+import CourseBanner from "@/layouts/components/CourseBanner.astro";
 import { getSinglePage } from "@/lib/contentParser.astro";
 import dateFormat from "@/lib/utils/dateFormat";
 import similarItems from "@/lib/utils/similarItems";
@@ -63,6 +64,10 @@ const { title, description, author, categories, image, date, tags } = post.data;
         <div class="content mb-10">
           <Content />
         </div>
+
+        <!-- Course Banner -->
+        <CourseBanner />
+
         <div class="row items-start justify-between">
           <div class="mb-10 flex items-center lg:col-5 lg:mb-0">
             <h5 class="mr-3">แท็ก :</h5>
