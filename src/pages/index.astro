@@ -68,8 +68,8 @@ const { banner, features } = homepage.data as Homepage;
                 format="webp"
                 loading="eager"
                 fetchpriority="high"
-                widths={[400, 800, 1200]}
-                sizes="(max-width: 640px) 400px, (max-width: 1024px) 800px, 1200px"
+                widths={[380, 800, 1200]}
+                sizes="(max-width: 640px) 380px, (max-width: 1024px) 800px, 1200px"
               />
             </div>
           )
@@ -96,6 +96,8 @@ const { banner, features } = homepage.data as Homepage;
                 format="webp"
                 widths={[320, 520, 768]}
                 sizes="(max-width: 640px) 100vw, (max-width: 1024px) 520px, 520px"
+                loading={index === 0 ? "eager" : "lazy"}
+                fetchpriority={index === 0 ? "high" : "auto"}
               />
             </div>
             <div class={`md:col-7 lg:col-6 ${index % 2 !== 0 && "md:order-1"}`}>
