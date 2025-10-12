@@ -15,7 +15,31 @@ export default defineConfig({
   base: config.site.base_path ? config.site.base_path : "/",
   trailingSlash: config.site.trailing_slash ? "always" : "never",
   image: { service: sharp() },
-  vite: { plugins: [tailwindcss()] },
+  build: {
+    inlineStylesheets: 'auto',
+  },
+  vite: {
+    plugins: [tailwindcss()],
+    build: {
+      rollupOptions: {
+        output: {
+          manualChunks: (id) => {
+            // Split vendor libraries into separate chunk
+            if (id.includes('node_modules')) {
+              // Split react separately
+              if (id.includes('react') || id.includes('react-dom')) {
+                return 'vendor-react';
+              }
+              // Other vendor libraries
+              return 'vendor';
+            }
+          },
+        },
+      },
+      // Reduce chunk size warnings threshold
+      chunkSizeWarningLimit: 600,
+    },
+  },
   integrations: [
     react(),
     sitemap(),

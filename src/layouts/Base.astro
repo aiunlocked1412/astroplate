@@ -55,23 +55,27 @@ const { title, meta_title, description, image, noindex, canonical } =
       )
     }
 
-    <!-- google analytics (gtag.js) -->
+    <!-- google analytics (gtag.js) - Lazy Loaded -->
     {
       config.google_analytics?.enable && (
-        <>
-          <script
-            async
-            src={`https://www.googletagmanager.com/gtag/js?id=${config.google_analytics.ga_id}`}
-          ></script>
-          <script is:inline define:vars={{ gaId: config.google_analytics.ga_id }}>
-            window.dataLayer = window.dataLayer || [];
-            function gtag() {
-              dataLayer.push(arguments);
-            }
-            gtag("js", new Date());
-            gtag("config", gaId);
-          </script>
-        </>
+        <script is:inline define:vars={{ gaId: config.google_analytics.ga_id }}>
+          // Lazy load Google Analytics after page load
+          window.addEventListener('load', function() {
+            setTimeout(function() {
+              // Load gtag script
+              var script = document.createElement('script');
+              script.async = true;
+              script.src = 'https://www.googletagmanager.com/gtag/js?id=' + gaId;
+              document.head.appendChild(script);
+
+              // Initialize dataLayer
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              gtag('js', new Date());
+              gtag('config', gaId);
+            }, 2000); // Delay 2 seconds after page load
+          });
+        </script>
       )
     }
 
@@ -211,7 +215,7 @@ const { title, meta_title, description, image, noindex, canonical } =
 
     <TwSizeIndicator />
     <Header />
-    <SearchModal client:load />
+    <SearchModal client:idle />
     <main id="main-content">
       <slot />
     </main>
