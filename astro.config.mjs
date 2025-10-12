@@ -1,4 +1,5 @@
 import mdx from "@astrojs/mdx";
+import partytown from "@astrojs/partytown";
 import react from "@astrojs/react";
 import sitemap from "@astrojs/sitemap";
 import tailwindcss from "@tailwindcss/vite";
@@ -43,6 +44,11 @@ export default defineConfig({
   integrations: [
     react(),
     sitemap(),
+    partytown({
+      config: {
+        forward: ["dataLayer.push"],
+      },
+    }),
     AutoImport({
       imports: [
         "@/shortcodes/Button",
