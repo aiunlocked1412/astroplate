@@ -5,7 +5,7 @@ description: "รับสอน Vibe Coding เชียงใหม่ เร�
 date: 2025-10-19T05:00:00Z
 image: "/images/blog-default.svg"
 categories: ["Vibe Coding", "เชียงใหม่", "Guides"]
-author: "พี่หนึ่ง AI Unlocked"
+author: "วิรุฬห์ เก่งธัญการ"
 tags: ["สอน Vibe Coding", "รับสอน Vibe Coding", "Vibe Coding เชียงใหม่", "เรียน Vibe Coding", "สร้างเว็บด้วย AI"]
 draft: false
 ---

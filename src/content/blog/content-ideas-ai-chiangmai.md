@@ -5,7 +5,7 @@ description: "เสนอ 10 ไอเดียคอนเทนต์สั�
 date: 2025-10-18T05:00:00Z
 image: "/images/blog-default.svg"
 categories: ["Marketing", "AI Tools", "Content Creation"]
-author: "พี่หนึ่ง AI Unlocked"
+author: "วิรุฬห์ เก่งธัญการ"
 tags: ["คอนเทนต์ AI", "เชียงใหม่", "ธุรกิจท้องถิ่น", "AI Marketing", "Content Marketing"]
 draft: false
 ---

@@ -5,7 +5,7 @@ description: "รายการตรวจสอบครบถ้วนก่
 date: 2025-10-09T05:00:00Z
 image: "/images/blog-default.svg"
 categories: ["คอร์ส AI", "Guides"]
-author: "พี่หนึ่ง AI Unlocked"
+author: "วิรุฬห์ เก่งธัญการ"
 tags: ["คอร์ส AI", "checklist", "เรียน AI", "คำแนะนำ", "การเลือกคอร์ส", "AI สำหรับผู้เริ่มต้น"]
 draft: false
 ---

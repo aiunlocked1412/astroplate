@@ -5,7 +5,7 @@ description: "ข้อมูลครบถ้วนเกี่ยวกับ
 date: 2025-10-11T05:00:00Z
 image: "/images/blog-default.svg"
 categories: ["คอร์ส AI", "เชียงใหม่", "Guides"]
-author: "พี่หนึ่ง AI Unlocked"
+author: "วิรุฬห์ เก่งธัญการ"
 tags: ["สอน AI", "เชียงใหม่", "ตารางเรียน", "คอร์ส AI", "ราคาคอร์ส AI"]
 draft: false
 ---

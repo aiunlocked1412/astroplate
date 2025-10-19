@@ -5,7 +5,7 @@ description: "เรียนรู้การนำ AI มาประยุ�
 date: 2025-10-10T07:00:00Z
 image: "/images/blog-default.svg"
 categories: ["AI", "Business", "Digital Transformation"]
-author: "พี่หนึ่ง AI Unlocked"
+author: "วิรุฬห์ เก่งธัญการ"
 tags: ["AI", "organization", "business", "transformation", "efficiency"]
 draft: false
 ---

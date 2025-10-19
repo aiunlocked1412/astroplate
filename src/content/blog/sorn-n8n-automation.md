@@ -5,7 +5,7 @@ description: "คู่มือสอน n8n ภาษาไทยฉบับ�
 date: 2025-10-04T05:00:00Z
 image: "/images/blog-default.svg"
 categories: ["n8n", "Automation", "Guides"]
-author: "พี่หนึ่ง AI Unlocked"
+author: "วิรุฬห์ เก่งธัญการ"
 tags: ["n8n", "Automation", "ภาษาไทย", "workflow", "สอน n8n", "n8n automation"]
 draft: false
 ---

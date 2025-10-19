@@ -5,7 +5,7 @@ description: "เรียนรู้ Vibe Coding วิธีการเข�
 date: 2025-10-03T05:00:00Z
 image: "/images/blog-default.svg"
 categories: ["Vibe Coding", "Technology", "Guides"]
-author: "พี่หนึ่ง AI Unlocked"
+author: "วิรุฬห์ เก่งธัญการ"
 tags: ["Vibe Coding", "โค้ดดิ้ง", "เขียนโค้ด", "AI Coding", "สอน Vibe Coding"]
 draft: false
 ---

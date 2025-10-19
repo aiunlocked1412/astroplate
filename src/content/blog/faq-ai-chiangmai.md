@@ -5,7 +5,7 @@ description: "รวบรวมคำถามและคำตอบที่
 date: 2025-10-11T09:00:00Z
 image: "/images/blog-default.svg"
 categories: ["คอร์ส AI", "Guides"]
-author: "พี่หนึ่ง AI Unlocked"
+author: "วิรุฬห์ เก่งธัญการ"
 tags: ["FAQ", "สอน AI", "n8n", "คอร์ส AI", "เชียงใหม่", "Vibe Coding", "คำถามที่พบบ่อย"]
 draft: false
 ---

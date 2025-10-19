@@ -5,7 +5,7 @@ description: "เรียนรู้หลักการเขียนพร
 date: 2025-10-12T05:00:00Z
 image: "/images/blog-default.svg"
 categories: ["AI Tools", "Guides", "Tutorials"]
-author: "พี่หนึ่ง AI Unlocked"
+author: "วิรุฬห์ เก่งธัญการ"
 tags: ["Prompt Engineering", "AI", "เขียนพรอมป์", "ChatGPT", "AI Tools"]
 draft: false
 ---

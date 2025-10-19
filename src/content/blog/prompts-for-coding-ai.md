@@ -5,7 +5,7 @@ description: "รวบรวม 20 พรอมป์ต์ที่ใช้�
 date: 2025-10-11T08:00:00Z
 image: "/images/blog-default.svg"
 categories: ["AI Tools", "Programming"]
-author: "พี่หนึ่ง AI Unlocked"
+author: "วิรุฬห์ เก่งธัญการ"
 tags: ["พรอมป์ต์", "โค้ดดิ้ง", "AI", "ChatGPT", "Claude", "Prompt Engineering", "การเขียนโปรแกรม"]
 draft: false
 ---

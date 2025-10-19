@@ -5,7 +5,7 @@ description: "เรียนรู้เทคนิคใช้ Vibe Coding �
 date: 2025-10-21T05:00:00Z
 image: "/images/blog-default.svg"
 categories: ["Vibe Coding", "Technology", "Business"]
-author: "พี่หนึ่ง AI Unlocked"
+author: "วิรุฬห์ เก่งธัญการ"
 tags: ["Vibe Coding", "MVP", "สร้างแอพ", "ผู้ประกอบการ", "Startup", "เทคนิค"]
 draft: false
 ---

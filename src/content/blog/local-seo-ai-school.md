@@ -5,7 +5,7 @@ description: "แนวทางทำ Local SEO สำหรับโรงเ�
 date: 2025-10-17T05:00:00Z
 image: "/images/blog-default.svg"
 categories: ["Marketing", "SEO", "Business"]
-author: "พี่หนึ่ง AI Unlocked"
+author: "วิรุฬห์ เก่งธัญการ"
 tags: ["Local SEO", "เชียงใหม่", "โรงเรียนสอน AI", "SEO", "Marketing"]
 draft: false
 ---

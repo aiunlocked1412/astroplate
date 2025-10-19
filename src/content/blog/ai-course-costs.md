@@ -5,7 +5,7 @@ description: "เปรียบเทียบค่าใช้จ่ายข
 date: 2025-10-19T05:00:00Z
 image: "/images/blog-default.svg"
 categories: ["Education", "Guides", "AI Courses"]
-author: "พี่หนึ่ง AI Unlocked"
+author: "วิรุฬห์ เก่งธัญการ"
 tags: ["คอร์ส AI", "ค่าใช้จ่าย", "งบประมาณ", "เรียน AI", "เปรียบเทียบคอร์ส"]
 draft: false
 ---

@@ -5,7 +5,7 @@ description: "คู่มือสอนวิธีตั้งค่าเว
 date: 2025-10-15T05:00:00Z
 image: "/images/blog-default.svg"
 categories: ["n8n", "Automation", "Tutorials"]
-author: "พี่หนึ่ง AI Unlocked"
+author: "วิรุฬห์ เก่งธัญการ"
 tags: ["n8n", "Workflow", "Gmail", "Google Sheets", "Automation", "สอน n8n"]
 draft: false
 ---

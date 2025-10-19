@@ -5,7 +5,7 @@ description: "รับสอน Vibe Coding แบบ Private ตัวต่�
 date: 2025-10-19T06:00:00Z
 image: "/images/blog-default.svg"
 categories: ["Vibe Coding", "Private Course", "Guides"]
-author: "พี่หนึ่ง AI Unlocked"
+author: "วิรุฬห์ เก่งธัญการ"
 tags: ["รับสอน Vibe Coding", "สอน Vibe Coding", "Vibe Coding ตัวต่อตัว", "เรียน Vibe Coding", "Private Tutor"]
 draft: false
 ---

@@ -5,7 +5,7 @@ description: "วิธีสร้างระบบสร้างใบเส
 date: 2025-10-11T05:00:00Z
 image: "/images/blog-default.svg"
 categories: ["n8n Automation", "Tutorials"]
-author: "พี่หนึ่ง AI Unlocked"
+author: "วิรุฬห์ เก่งธัญการ"
 tags: ["n8n", "ใบเสร็จ", "Automation", "AI", "ระบบอัตโนมัติ", "สร้างเอกสาร"]
 draft: false
 ---

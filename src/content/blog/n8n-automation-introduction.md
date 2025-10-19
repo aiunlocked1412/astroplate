@@ -5,7 +5,7 @@ description: "แนะนำ n8n เครื่องมือ workflow automa
 date: 2025-10-10T05:00:00Z
 image: "/images/blog-default.svg"
 categories: ["Automation", "n8n", "Technology"]
-author: "พี่หนึ่ง AI Unlocked"
+author: "วิรุฬห์ เก่งธัญการ"
 tags: ["n8n", "automation", "workflow", "no-code"]
 draft: false
 ---

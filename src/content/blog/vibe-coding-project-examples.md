@@ -5,7 +5,7 @@ description: "แชร์ตัวอย่างโปรเจกต์จร
 date: 2025-10-10T05:00:00Z
 image: "/images/blog-default.svg"
 categories: ["Vibe Coding", "Technology", "Guides"]
-author: "พี่หนึ่ง AI Unlocked"
+author: "วิรุฬห์ เก่งธัญการ"
 tags: ["Vibe Coding", "โปรเจกต์", "ตัวอย่างการใช้งาน", "no-code", "AI development", "เว็บแอป"]
 draft: false
 ---

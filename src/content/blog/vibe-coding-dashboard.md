@@ -5,7 +5,7 @@ description: "แนะนำการใช้ Vibe Coding สร้าง Dash
 date: 2025-10-11T07:00:00Z
 image: "/images/blog-default.svg"
 categories: ["Vibe Coding", "Business"]
-author: "พี่หนึ่ง AI Unlocked"
+author: "วิรุฬห์ เก่งธัญการ"
 tags: ["Vibe Coding", "Dashboard", "ยอดขาย", "Business Intelligence", "Data Visualization", "ผู้ประกอบการ"]
 draft: false
 ---

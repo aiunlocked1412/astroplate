@@ -5,7 +5,7 @@ description: "เปรียบเทียบ n8n Automation กับ Vibe Co
 date: 2025-10-08T05:00:00Z
 image: "/images/blog-default.svg"
 categories: ["n8n", "Vibe Coding", "Automation", "Technology"]
-author: "พี่หนึ่ง AI Unlocked"
+author: "วิรุฬห์ เก่งธัญการ"
 tags: ["n8n", "Vibe Coding", "automation", "เปรียบเทียบ", "workflow", "no-code"]
 draft: false
 ---

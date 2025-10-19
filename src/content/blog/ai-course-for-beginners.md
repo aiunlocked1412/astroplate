@@ -5,7 +5,7 @@ description: "คู่มือสมบูรณ์สำหรับผู้
 date: 2025-10-14T05:00:00Z
 image: "/images/blog-default.svg"
 categories: ["คอร์ส AI", "Guides", "Beginners"]
-author: "พี่หนึ่ง AI Unlocked"
+author: "วิรุฬห์ เก่งธัญการ"
 tags: ["คอร์ส AI", "ผู้เริ่มต้น", "ไม่มีพื้นฐาน", "เรียน AI", "AI สำหรับผู้เริ่มต้น"]
 draft: false
 ---

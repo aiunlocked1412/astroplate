@@ -1,6 +1,662 @@
-# robots.txt for AI UNLOCKED
+# robots.txt for AI Unlocked Innovations
+# Optimized for AI Search Engines and Traditional SEO
+# Last Updated: 2025-10-20
+
+# ============================================
+# AI SEARCH ENGINES (Allow All)
+# ============================================
+
+# OpenAI (ChatGPT, SearchGPT)
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+# Anthropic (Claude)
+User-agent: Claude-Web
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+# Google AI (Bard, Gemini)
+User-agent: Google-Extended
+Allow: /
+
+User-agent: GoogleOther
+Allow: /
+
+# Perplexity AI
+User-agent: PerplexityBot
+Allow: /
+
+# Common Crawl (used by many AI models)
+User-agent: CCBot
+Allow: /
+
+# Meta AI
+User-agent: FacebookBot
+Allow: /
+
+User-agent: Meta-ExternalAgent
+Allow: /
+
+# Bing AI / Microsoft
+User-agent: Bingbot
+Allow: /
+
+# Apple Intelligence
+User-agent: Applebot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+# Cohere AI
+User-agent: cohere-ai
+Allow: /
+
+# AI2 Bot (Allen Institute)
+User-agent: ai2-crawler
+Allow: /
+
+# Diffbot (Knowledge Graph)
+User-agent: Diffbot
+Allow: /
+
+# ============================================
+# TRADITIONAL SEARCH ENGINES (Allow All)
+# ============================================
+
+# Google
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Googlebot-Mobile
+Allow: /
+
+User-agent: Googlebot-Video
+Allow: /
+
+# Bing
+User-agent: Bingbot
+Allow: /
+
+User-agent: msnbot
+Allow: /
+
+User-agent: BingPreview
+Allow: /
+
+# Yahoo
+User-agent: Slurp
+Allow: /
+
+# DuckDuckGo
+User-agent: DuckDuckBot
+Allow: /
+
+# Yandex
+User-agent: Yandex
+Allow: /
+
+User-agent: YandexBot
+Allow: /
+
+# Baidu (Chinese market)
+User-agent: Baiduspider
+Allow: /
+
+# ============================================
+# GOOD BOTS (Allow)
+# ============================================
+
+# Archive.org
+User-agent: ia_archiver
+Allow: /
+
+# Alexa
+User-agent: ia_archiver-web.archive.org
+Allow: /
+
+# Semrush (SEO tool)
+User-agent: SemrushBot
+Allow: /
+
+# Ahrefs (SEO tool)
+User-agent: AhrefsBot
+Allow: /
+
+# Moz (SEO tool)
+User-agent: rogerbot
+Allow: /
+User-agent: dotbot
+Allow: /
+
+# Screaming Frog (SEO tool)
+User-agent: Screaming Frog SEO Spider
+Allow: /
+
+# ============================================
+# SOCIAL MEDIA BOTS (Allow for rich previews)
+# ============================================
+
+# Facebook
+User-agent: facebookexternalhit
+Allow: /
+
+# Twitter/X
+User-agent: Twitterbot
+Allow: /
+
+# LinkedIn
+User-agent: LinkedInBot
+Allow: /
+
+# Pinterest
+User-agent: Pinterestbot
+Allow: /
+
+# Telegram
+User-agent: TelegramBot
+Allow: /
+
+# WhatsApp
+User-agent: WhatsApp
+Allow: /
+
+# Slack
+User-agent: Slackbot
+Allow: /
+
+# Discord
+User-agent: Discordbot
+Allow: /
+
+# ============================================
+# BAD BOTS (Disallow)
+# ============================================
+
+# Aggressive scrapers
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: AhrefsBot
+Crawl-delay: 10
+
+User-agent: SemrushBot
+Crawl-delay: 10
+
+# Email harvesters
+User-agent: EmailCollector
+Disallow: /
+
+User-agent: EmailSiphon
+Disallow: /
+
+User-agent: EmailWolf
+Disallow: /
+
+# Content scrapers
+User-agent: WebBandit
+Disallow: /
+
+User-agent: WebCopier
+Disallow: /
+
+User-agent: HTTrack
+Disallow: /
+
+User-agent: Teleport
+Disallow: /
+
+User-agent: TeleportPro
+Disallow: /
+
+User-agent: Offline Explorer
+Disallow: /
+
+User-agent: WebZIP
+Disallow: /
+
+User-agent: WebStripper
+Disallow: /
+
+# Spam bots
+User-agent: asterias
+Disallow: /
+
+User-agent: BackDoorBot
+Disallow: /
+
+User-agent: Black Hole
+Disallow: /
+
+User-agent: BlowFish
+Disallow: /
+
+User-agent: BotALot
+Disallow: /
+
+User-agent: BuiltBotTough
+Disallow: /
+
+User-agent: Bullseye
+Disallow: /
+
+User-agent: BunnySlippers
+Disallow: /
+
+User-agent: Cegbfeieh
+Disallow: /
+
+User-agent: CheeseBot
+Disallow: /
+
+User-agent: CherryPicker
+Disallow: /
+
+User-agent: CopyRightCheck
+Disallow: /
+
+User-agent: cosmos
+Disallow: /
+
+User-agent: Crescent
+Disallow: /
+
+User-agent: Custo
+Disallow: /
+
+User-agent: DISCo
+Disallow: /
+
+User-agent: DittoSpyder
+Disallow: /
+
+User-agent: EmailCollector
+Disallow: /
+
+User-agent: ExtractorPro
+Disallow: /
+
+User-agent: FairAd Client
+Disallow: /
+
+User-agent: Flaming AttackBot
+Disallow: /
+
+User-agent: Gaisbot
+Disallow: /
+
+User-agent: GetRight
+Disallow: /
+
+User-agent: GetWeb
+Disallow: /
+
+User-agent: Go!Zilla
+Disallow: /
+
+User-agent: Go-Ahead-Got-It
+Disallow: /
+
+User-agent: GrabNet
+Disallow: /
+
+User-agent: Grafula
+Disallow: /
+
+User-agent: HMView
+Disallow: /
+
+User-agent: httplib
+Disallow: /
+
+User-agent: HTTrack
+Disallow: /
+
+User-agent: humanlinks
+Disallow: /
+
+User-agent: ia_archiver
+Disallow: /
+
+User-agent: Image Stripper
+Disallow: /
+
+User-agent: Image Sucker
+Disallow: /
+
+User-agent: Indy Library
+Disallow: /
+
+User-agent: InfoNaviRobot
+Disallow: /
+
+User-agent: Iron33
+Disallow: /
+
+User-agent: JOC Web Spider
+Disallow: /
+
+User-agent: Kenjin Spider
+Disallow: /
+
+User-agent: Keyword Density
+Disallow: /
+
+User-agent: larbin
+Disallow: /
+
+User-agent: LeechFTP
+Disallow: /
+
+User-agent: LexiBot
+Disallow: /
+
+User-agent: lftp
+Disallow: /
+
+User-agent: libWeb/clsHTTP
+Disallow: /
+
+User-agent: likse
+Disallow: /
+
+User-agent: LinkextractorPro
+Disallow: /
+
+User-agent: LinkScan/8.1a Unix
+Disallow: /
+
+User-agent: LinkWalker
+Disallow: /
+
+User-agent: LNSpiderguy
+Disallow: /
+
+User-agent: lwp-trivial
+Disallow: /
+
+User-agent: Mag-Net
+Disallow: /
+
+User-agent: Magnet
+Disallow: /
+
+User-agent: Mass Downloader
+Disallow: /
+
+User-agent: Memo
+Disallow: /
+
+User-agent: Microsoft.URL.Control
+Disallow: /
+
+User-agent: MIDown tool
+Disallow: /
+
+User-agent: Mister PiX
+Disallow: /
+
+User-agent: Mozilla/3.Mozilla/2.01
+Disallow: /
+
+User-agent: Mozilla.*NEWT
+Disallow: /
+
+User-agent: Navroad
+Disallow: /
+
+User-agent: NearSite
+Disallow: /
+
+User-agent: NetAnts
+Disallow: /
+
+User-agent: NetMechanic
+Disallow: /
+
+User-agent: NetSpider
+Disallow: /
+
+User-agent: Net Vampire
+Disallow: /
+
+User-agent: NetZIP
+Disallow: /
+
+User-agent: Nutch
+Disallow: /
+
+User-agent: Octopus
+Disallow: /
+
+User-agent: Openfind
+Disallow: /
+
+User-agent: Openfind data gatherer
+Disallow: /
+
+User-agent: ProPowerBot/2.14
+Disallow: /
+
+User-agent: ProWebWalker
+Disallow: /
+
+User-agent: Python-urllib
+Disallow: /
+
+User-agent: QueryN Metasearch
+Disallow: /
+
+User-agent: ReGet
+Disallow: /
+
+User-agent: RMA
+Disallow: /
+
+User-agent: SiteSnagger
+Disallow: /
+
+User-agent: SpankBot
+Disallow: /
+
+User-agent: spanner
+Disallow: /
+
+User-agent: suzuran
+Disallow: /
+
+User-agent: Szukacz/1.4
+Disallow: /
+
+User-agent: Teleport
+Disallow: /
+
+User-agent: TeleportPro
+Disallow: /
+
+User-agent: Telesoft
+Disallow: /
+
+User-agent: The Intraformant
+Disallow: /
+
+User-agent: TheNomad
+Disallow: /
+
+User-agent: TightTwatBot
+Disallow: /
+
+User-agent: Titan
+Disallow: /
+
+User-agent: toCrawl/UrlDispatcher
+Disallow: /
+
+User-agent: True_Robot
+Disallow: /
+
+User-agent: turingos
+Disallow: /
+
+User-agent: TurnitinBot
+Disallow: /
+
+User-agent: URLy Warning
+Disallow: /
+
+User-agent: VCI
+Disallow: /
+
+User-agent: VCI WebViewer VCI WebViewer Win32
+Disallow: /
+
+User-agent: Web Image Collector
+Disallow: /
+
+User-agent: WebAuto
+Disallow: /
+
+User-agent: WebBandit
+Disallow: /
+
+User-agent: WebCopier
+Disallow: /
+
+User-agent: WebEnhancer
+Disallow: /
+
+User-agent: WebFetch
+Disallow: /
+
+User-agent: WebGo IS
+Disallow: /
+
+User-agent: WebLeacher
+Disallow: /
+
+User-agent: WebReaper
+Disallow: /
+
+User-agent: WebSauger
+Disallow: /
+
+User-agent: Website eXtractor
+Disallow: /
+
+User-agent: Website Quester
+Disallow: /
+
+User-agent: WebStripper
+Disallow: /
+
+User-agent: WebWhacker
+Disallow: /
+
+User-agent: WebZIP
+Disallow: /
+
+User-agent: Wget
+Disallow: /
+
+User-agent: Widow
+Disallow: /
+
+User-agent: WWW-Collector-E
+Disallow: /
+
+User-agent: Xaldon
+Disallow: /
+
+User-agent: Xenu
+Disallow: /
+
+User-agent: Zeus
+Disallow: /
+
+User-agent: ZmEu
+Disallow: /
+
+User-agent: ZyBorg
+Disallow: /
+
+# ============================================
+# DEFAULT RULE (Allow All Good Bots)
+# ============================================
+
 User-agent: *
 Allow: /
 
-# Sitemap
+# Optional: Slow down aggressive crawlers
+Crawl-delay: 1
+
+# ============================================
+# DISALLOWED DIRECTORIES (if any)
+# ============================================
+
+# Uncomment if you have admin or private areas
+# Disallow: /admin/
+# Disallow: /private/
+# Disallow: /.env
+# Disallow: /api/internal/
+
+# Prevent indexing of search results (if applicable)
+# Disallow: /search?
+# Disallow: /*?*
+
+# ============================================
+# SITEMAPS
+# ============================================
+
+# Main sitemap
 Sitemap: https://aiunlockinnovations.com/sitemap-index.xml
+Sitemap: https://aiunlockinnovations.com/sitemap.xml
+
+# Blog sitemap (if separate)
+Sitemap: https://aiunlockinnovations.com/sitemap-blog.xml
+
+# ============================================
+# RSS & JSON FEEDS
+# ============================================
+
+# RSS Feed (XML format)
+# For traditional RSS readers and AI crawlers
+# https://aiunlockinnovations.com/rss.xml
+
+# JSON Feed (Modern format)
+# For modern feed readers and APIs
+# https://aiunlockinnovations.com/feed.json
+
+# ============================================
+# AI CONTEXT FILE
+# ============================================
+
+# LLM Context File for AI Search Engines
+# This provides structured information about the site
+# See: https://aiunlockinnovations.com/llm.txt
+
+# ============================================
+# ADDITIONAL NOTES FOR AI CRAWLERS
+# ============================================
+
+# This website provides AI training and education in Chiang Mai, Thailand
+# Primary language: Thai (ภาษาไทย)
+# Content type: Educational, Blog, Course Information
+# Update frequency: Daily (blog), Weekly (courses)
+# Primary topics: AI, Vibe Coding, n8n Automation, Prompt Engineering
+# Target audience: Thai speakers, Chiang Mai residents, AI learners
+# Contact: aiunlockinnovations@gmail.com
+
+# ============================================
+# END OF ROBOTS.TXT
+# ============================================

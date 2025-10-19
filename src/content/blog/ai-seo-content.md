@@ -5,7 +5,7 @@ description: "คู่มือครบถ้วนการใช้ AI ส�
 date: 2025-10-11T06:00:00Z
 image: "/images/blog-default.svg"
 categories: ["AI Tools", "Marketing"]
-author: "พี่หนึ่ง AI Unlocked"
+author: "วิรุฬห์ เก่งธัญการ"
 tags: ["SEO", "คอนเทนต์ AI", "คำค้น", "Content Marketing", "AI Writing", "Digital Marketing"]
 draft: false
 ---

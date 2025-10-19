@@ -132,6 +132,22 @@ const { title, meta_title, description, image, noindex, canonical } =
     <!-- noindex robots -->
     {noindex && <meta name="robots" content="noindex,nofollow" />}
 
+    <!-- RSS Feed -->
+    <link
+      rel="alternate"
+      type="application/rss+xml"
+      title={`${config.site.title} - RSS Feed`}
+      href={`${config.site.base_url}/rss.xml`}
+    />
+
+    <!-- JSON Feed -->
+    <link
+      rel="alternate"
+      type="application/feed+json"
+      title={`${config.site.title} - JSON Feed`}
+      href={`${config.site.base_url}/feed.json`}
+    />
+
     <!-- meta-description -->
     <meta
       name="description"
