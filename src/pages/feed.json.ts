@@ -4,7 +4,7 @@ import { sortByDate } from '@/lib/utils/sortFunctions';
 
 export async function GET() {
   const blog = await getCollection('blog', ({ data }) => {
-    return !data.draft;
+    return !data.draft && data.date; // Only include posts with dates
   });
 
   const sortedPosts = sortByDate(blog);
@@ -32,8 +32,8 @@ export async function GET() {
       content_html: post.body || post.data.description,
       summary: post.data.description || post.data.meta_title,
       image: `${config.site.base_url}${post.data.image || config.metadata.meta_image}`,
-      date_published: post.data.date.toISOString(),
-      date_modified: post.data.date.toISOString(),
+      date_published: post.data.date!.toISOString(),
+      date_modified: post.data.date!.toISOString(),
       authors: [
         {
           name: post.data.author || config.metadata.meta_author,

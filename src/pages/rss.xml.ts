@@ -5,7 +5,7 @@ import { sortByDate } from '@/lib/utils/sortFunctions';
 
 export async function GET(context) {
   const blog = await getCollection('blog', ({ data }) => {
-    return !data.draft;
+    return !data.draft && data.date; // Only include posts with dates
   });
 
   const sortedPosts = sortByDate(blog);
